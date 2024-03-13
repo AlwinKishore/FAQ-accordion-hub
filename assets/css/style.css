@@ -133,7 +133,7 @@ p{
     outline: hsl(285, 100%, 50%) dotted 1px;
 }
 
-.accordion-header p{
+.accordion-header span{
     max-width: 80%;
 }
 
